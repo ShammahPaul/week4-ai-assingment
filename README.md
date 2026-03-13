@@ -28,3 +28,6 @@ Explain using a simple example.
 
 *A schema is like a blueprint or structure that defines how data is organized in a database.
 It tells us what kind of information will be stored, how it is arranged, and how different pieces of data relate to each other.*
+
+## List and Dictionary
+*List stores data of different data types while dictionary stores data in key values*
